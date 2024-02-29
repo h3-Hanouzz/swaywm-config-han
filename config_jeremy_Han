@@ -69,7 +69,7 @@ bindsym $mod+Return exec $term
 bindsym $mod+q kill
 
 # Start your launcher
-bindsym $mod+r exec $menu
+bindsym $mod exec $menu
 
 # Take a screenshot
 bindsym $mod+p exec $shot area
