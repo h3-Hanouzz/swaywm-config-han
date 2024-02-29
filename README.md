@@ -1,2 +1,2 @@
 # SwayWM-dotfiles
-My @swaywm config file. Thanks @jbtx for the original file. 
+My @swaywm config file. Thanks @jtbx for the original file. 
