@@ -66,7 +66,7 @@ output * bg /home/Hanouzz1153/pics/screenshots/Minecraft/Clear_Sunset.png
 bindsym $mod+Return exec $term
 
 # Kill focused window
-bindsym $mod+q kill
+bindsym Mod1+f4 kill
 
 # Start your launcher
 bindsym $mod exec $menu
@@ -81,8 +81,8 @@ bindsym $mod+f11 exec pulsemixer --change-volume -5
 bindsym $mod+f12 exec pulsemixer --change-volume +5
 
 # Change screen brightness
-bindsym $mod+f4 exec brightnessctl set 5%-
-bindsym $mod+f5 exec brightnessctl set 5%+
+bindsym $mod+f1 exec brightnessctl set 5%-
+bindsym $mod+f2 exec brightnessctl set 5%+
 
 # Drag floating windows by holding down $mod and left mouse button.
 # Resize them with right mouse button + $mod.
