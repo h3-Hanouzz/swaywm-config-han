@@ -21,7 +21,7 @@ set $gappx 32
 # terminal
 set $term foot
 # launcher
-set $menu fuzzel
+set $menu wofi
 # screenshot tool
 set $shot grimshot copy
 
@@ -76,9 +76,9 @@ bindsym $mod+p exec $shot area
 bindsym $mod+Shift+p exec $shot screen
 
 # Change sound volume
-bindsym $mod+f1 exec pulsemixer --toggle-mute
-bindsym $mod+f2 exec pulsemixer --change-volume -5
-bindsym $mod+f3 exec pulsemixer --change-volume +5
+bindsym $mod+f10 exec pulsemixer --toggle-mute
+bindsym $mod+f11 exec pulsemixer --change-volume -5
+bindsym $mod+f12 exec pulsemixer --change-volume +5
 
 # Change screen brightness
 bindsym $mod+f4 exec brightnessctl set 5%-
