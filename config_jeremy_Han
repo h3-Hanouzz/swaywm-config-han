@@ -2,7 +2,7 @@
 # Put programs here that you want to start automatically when sway boots, e.g. waybar.
 # Example:
 #exec waybar
-exec eww fuzzel firefox steam armcord
+exec waybar wofi firefox steam armcord
 ### Variables
 
 # modifier key.
