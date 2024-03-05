@@ -1,6 +1,6 @@
 # swaywm-config-han
-My @swaywm configuration. Thanks @jtbx for the original sway config!
+-My @swaywm configuration. Thanks @jtbx for the original sway config!
 
-Thanks to @MrVivekRajan for the orginal Waybar and wlogout configs!
+-Thanks to @MrVivekRajan for the orginal Waybar and wlogout configs!
 
-Thanks to @matheushenriquereiter for the wofi config!
+-Thanks to @matheushenriquereiter for the wofi config!
